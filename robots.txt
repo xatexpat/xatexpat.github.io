@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xatexpat.github.io/sitemap.html.gz
+Sitemap: https://xatexpat.github.io/app/sitemap.html.gz
+Sitemap: https://xatexpat.github.io/assets/sitemap.html.gz
+Sitemap: https://xatexpat.github.io/css/sitemap.html.gz
+Sitemap: https://xatexpat.github.io/includes/sitemap.html.gz
+Sitemap: https://xatexpat.github.io/item/sitemap.html.gz
+Sitemap: https://xatexpat.github.io/src/sitemap.html.gz
